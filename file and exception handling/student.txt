@@ -1,3 +1,0 @@
-jerry,male, grade 5
-sharon, female, grade 10
-jonathan, male, grade 8
